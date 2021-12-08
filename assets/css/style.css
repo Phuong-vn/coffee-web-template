@@ -50,7 +50,7 @@ body {
   padding: 8px 30px;
   color: var(--color-white);
   background-color: var(--color-primary);
-  font-size: 1.9rem;
+  font-size: 1.8rem;
   text-transform: capitalize;
   transition: letter-spacing .2s;
 }
